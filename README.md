@@ -9,13 +9,17 @@ This guide provides topic wise links to salesforce documentation.
 - [Apex](#apex)
 - [SoQL](#soql)
 
-### Lightning Web Components
+## Lightning Web Components
+
 
 - [LWC topics with examples](https://lwc.dev/guide/events)
 - [Online Tutorials to learn LWC](https://www.udemy.com/course/salesforce-lightning-web-component-development/)
 
-### Aura Components
+## Aura Components
 
-### Apex
 
-### SoQL
+## Apex
+
+
+## SoQL
+
