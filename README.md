@@ -9,8 +9,6 @@ This guide provides topic wise links to salesforce documentation.
 - [Apex](#apex)
 - [SoQL](#soql)
 
-Create a record-triggered flow to update another record, send a notification, initiate a process, or maintain data consistency. To avoid conflicts and improve performance, you can fine tune the timing of your automation using options within the record-triggered flow.
-
 ### Lightning Web Components
 
 - [LWC topics with examples](https://lwc.dev/guide/events)
